@@ -1,4 +1,4 @@
-## Set Up Your Flutter Environment
+## Set Up 
 
 ### Minimum System Requirements
 
@@ -8,13 +8,12 @@
 - Windows PowerShell 5.0 or newer (this is pre-installed with Windows 10)
 - Git For Windows
 
-### Installing Flutter SDK
+### Installing Chocolatey
 
-On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.
+>? On windows, the easiest way to install Flutter is via the package manager Chocolatey.
 
-With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.
-
-Now run the following command in Windows Powershell
+<p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.
+Run the following command in Windows Powershell</p>
 
 ```
 C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
