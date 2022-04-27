@@ -17,10 +17,10 @@ Run the following command in Windows Powershell</p>
 ```
 C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
-<br>
+
 <p>If you don't see any errors, you are ready to use Chocolatey!</p>
 
-> C:\> <strong>choco</strong>
+> C:\> **choco**
 
 <pre><i>Chocolatey v1.1.0    
 Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br> 
