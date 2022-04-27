@@ -22,17 +22,20 @@ C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointMa
 <p>Paste the copied text into your shell and press Enter.</br>
 If you don't see any errors, you are ready to use Chocolatey!</p>
 
-> C:\>choco
+ < <pre> C:\>choco>/pre>
 
-<i>Chocolatey v1.1.0</i>  
-<i>Please run 'choco -?' or 'choco <command> -?' for help menu.</i>
+<pre><i>Chocolatey v1.1.0</br>  
+Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre>
 
 With Chocolatey on your machine, you simply have to run:
 
-<div align=center>
-<img width="450" src="./img/SDK.png"/>
-</div>
+
 
 ```
 C:\> choco install flutter
 ```
+
+
+<div align=center>
+<img width="450" src="./img/SDK.png"/>
+</div>
