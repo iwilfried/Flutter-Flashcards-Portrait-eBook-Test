@@ -42,7 +42,7 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>
 <br>
 
 <div align=center>
-<img src="./img/SDK.png"/>
+<img src="./img/Flutter.png"/>
 </div>
 
 
