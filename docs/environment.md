@@ -91,36 +91,29 @@ Open Android Studio > More Actions> SDK Manager >
 <img width="480" src="./img/VDM.png"/>
 </div>  
 
+Select a device where you want to simulate your app on...  
+
 <div align=left>
 <img width="480" src="./img/DD.png"/>
-</div>
+</div>  
+
+If you do a final check and get all ticks  
+
+> C:\> **flutter doctor**  
+
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 2.10.5, on Microsoft Windows [Version 10.0.22000.613], locale de-DE)
+[√] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+[√] Chrome - develop for the web
+[√] Visual Studio - develop for Windows (Visual Studio Community 2022 17.1.0)
+[√] Android Studio (version 2021.1)
+[√] VS Code (version 1.66.2)
+[√] Connected device (3 available)
+[√] HTTP Host Availability
+
+• No issues found!
 
 
-
-Select a device definition and click Next .
-Select Virtual Devices
-
-Select a system image and click Next .
-Click Finish .
-Install the Flutter and Dart Plugins – Android Studio
-Install the Flutter and Dart Plugins
-
-1. Open Android Studio .
-
-2. Open plugin preferences ( File > Settings > Plugins ).
-
-3. Select Browser repositories , select the Flutter plugin and click Install .
-
-4. Click Yes when prompted to install the Dart plugin.
-
-5. Click Restart when prompted.
-
-Tadda! Now, you are one step closer to becoming a Flutter developer.
-
-Flutter and Dart are the right choices if you wish to develop feature-rich mobile and web interfaces in a given time.
-
-Since you are on the verge of developing an app using Flutter app development services, we chose to guide you through this tutorial of Flutter installation on your system.
-
-Now you know how to install Flutter on different systems – Android, iOS, and Windows. So, install the Flutter on your existing system and walk on the path of a developer. I hope this guide helps you with the installation process. If you still face any issues with the installation process, you can consult the top-notch Flutter app development company, Radixweb.
+Tadda! Now, you are one step closer to becoming a Flutter developer.  
 
 Good luck in your development journey!
