@@ -50,33 +50,36 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>
 
 <p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
 
-### Android toolchain - develop for Android devices  
+### Android toolchain  
+Develop for Android devices
 
-Android SDK at C:\Android\sdk  
-
-? Android SDK is missing command line tools; download from https://goo.gl/XxQghQ
-Try re-installing or updating your Android SDK,
-visit https://flutter.dev/setup/#android-setup for detailed instructions.  
+?> You will find Android SDK at C:> Android\sdk  
 
 ### How to Install Flutter on Android?
-Download the Android Studio and install it.
-Open Android Studio > Android Studio Setup Wizard . This installs the latest version of Android SDK, Android SDK Platform-Tools, and Android SDK Build-Tools, which are essential while developing a Flutter app for the Android system.
+Download the Android Studio and install it.  
+
+<p>Open Android Studio > Android Studio Setup Wizard .  
+This installs the latest version of  
+  
+  -  Android SDK, 
+  -  Android SDK Platform-Tools, 
+  -  and Android SDK Build-Tools,  
+  
+  which are essential while developing a Flutter app for the Android system.</p>
 
 ### Set Up Your Android Device
-Before going further, make sure that your Android device runs on the Android 4.1 version (API level 16) or higher.
-
-Enable Developer Options and USB debugging on your device. You can read further on Android documentation.
-Install Google USB Driver for Windows-only.
-Now plug your Android device into the computer using a USB cable. Give access to your device through the computer.
-Now run the flutter devices command to verify that Flutter accesses your connected Android device
-Actually, Flutter uses the default version of the Android SDK where your adb tool is located.
-
-If you want to use a different version of Android SDK for Flutter, then set the ANDROID_HOME environment variable to that installation directory.
+Before going further, make sure that your Android device runs on the Android 4.1 version (API level 16) or higher.  
 
 ### Set Up Android Emulator
 Enable VM acceleration on your device.
-Open Android Studio > Tools > Android > AVD Manager and select Create Virtual Device .
-Set Up Android Emulator
+Open Android Studio > Tools > Android >   
+
+<div align=center>
+<img src="./img/Flutter.png"/>
+</div>
+
+AVD Manager and select Create Virtual Device .
+### Set Up Android Emulator
 
 Select a device definition and click Next .
 Select Virtual Devices
