@@ -1,6 +1,6 @@
 # Demo  
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:8em;">LOVE!</span>
 
 This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/). 
 
