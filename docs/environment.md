@@ -51,20 +51,18 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>
 
 <p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
 
-### Android toolchain  
-Develop for Android devices
+    
+### Develop for Android devices  
+Download the Android Studio and install it.
 
-?> You will find Android SDK at C:> Android\sdk  
+?> You will find Android SDK at **C:> Android\sdk**   
 
-### How to Install Flutter on Android?
-Download the Android Studio and install it.  
-
-<p>Open Android Studio > Android Studio Setup Wizard .  
-This installs the latest version of  
+<p>Open Android Studio > Android Studio Setup Wizard.<br>
+This installs the latest version of<br> 
   
   -  Android SDK, 
   -  Android SDK Platform-Tools, 
-  -  and Android SDK Build-Tools,  
+  -  and Android SDK Build-Tools,<br> 
   
   which are essential while developing a Flutter app for the Android system.</p>
 
