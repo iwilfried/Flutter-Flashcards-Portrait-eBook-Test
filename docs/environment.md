@@ -13,18 +13,21 @@
 ?> On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.
 
 <p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.</br>
+
 Run the following command in Windows Powershell</p>
 
-> C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```bash
+<strong>C:\></strong>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
 
-
-<p>Paste the copied text into your shell and press Enter.</br>
 If you don't see any errors, you are ready to use Chocolatey!</p>
 
-> C:\>choco
+```bash
+C:\>choco
+```
 
 <pre><i>Chocolatey v1.1.0    
-Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre>  
+Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>  
 
 With Chocolatey on your machine, you simply have to run:
 
