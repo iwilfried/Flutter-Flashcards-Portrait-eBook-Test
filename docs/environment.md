@@ -59,6 +59,22 @@ Verify Chocolatey
 <pre><i>Chocolatey v1.1.0    
 Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br> 
 
+> C:\> **choco list -l**
+PS C:\Users\User> choco list -l
+Chocolatey v1.1.0
+chocolatey 1.1.0
+chocolatey-core.extension 1.3.5.1
+chocolatey-dotnetfx.extension 1.0.1
+chocolatey-visualstudio.extension 1.10.0
+chocolatey-windowsupdate.extension 1.0.4
+dotnetfx 4.8.0.20190930
+<strong>flutter 2.10.0</strong>
+KB2919355 1.0.20160915
+KB2919442 1.0.20160915
+KB2999226 1.0.20181019
+KB3033929 1.0.5
+KB3035131 1.0.3
+
 `With Chocolatey on your machine, you simply have to run:`
 
 
