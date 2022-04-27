@@ -44,6 +44,7 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>
 <div align=center>
 <img src="./img/Flutter.png"/>
 </div>
+</br>
 
 
 > C:\> **flutter doctor**  
@@ -74,8 +75,8 @@ Before going further, make sure that your Android device runs on the Android 4.1
 Enable VM acceleration on your device.
 Open Android Studio > Tools > Android >   
 
-<div align=center>
-<img src="./img/Flutter.png"/>
+<div align=left>
+<img width="480" src="./img/sdkmanager.png"/>
 </div>
 
 AVD Manager and select Create Virtual Device .
