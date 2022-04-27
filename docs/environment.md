@@ -15,21 +15,18 @@
 <p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.</br>
 Run the following command in Windows Powershell</p>
 
-```
-C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-```
+> C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
 
 <p>Paste the copied text into your shell and press Enter.</br>
 If you don't see any errors, you are ready to use Chocolatey!</p>
 
-> C:\>choco>
+> C:\>choco
 
-<pre><i>Chocolatey v1.1.0</br>  
-Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre>
+<pre><i>Chocolatey v1.1.0    
+Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre>  
 
 With Chocolatey on your machine, you simply have to run:
-
-
 
 ```
 C:\> choco install flutter
