@@ -19,17 +19,42 @@ Therefore, Flutter is the best choice for every startup.
 
 ### Installing Chocolatey
 
-?> On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.  
+?> On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.   
+
+> Step 1: Open the Start Menu  
+Click the <i>Windows</i> Key. This opens the Start Menu  
+
+> Step 2: Find Powershell  
+<p>Type PowerShell into the Start Menu.<br>
+PowerShell should appear at the top of the menu.</p>  
+
+> Step 3: Open Powershell as an Administrator  
+<p>Right-click on the Powershell icon. A context menu will appear.<br>
+Select Run as Administrator and say yes to changes to your PC. You see
+the message:
+PowerShell 7.2.2
+Copyright (c) Microsoft Corporation.
+https://aka.ms/powershell
+Type 'help' to get help.  </p>  
+
+> Step 4: 
+<p>Set the execution Policy
+The command instructs PowerShell to let you run scripts for this session. 
+Once you close the PowerShell window, it will default back to the original execution policy.</p>
+
+
+
 <p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.</br>
-Run the following command in Windows Powershell</p>
+Run the following command in Windows Powershell - Installation is included</p>
 
 ```
 C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 <p>If you don't see any errors, you are ready to use Chocolatey!</p>
+Verify Chocolatey  
 
-> C:\> **choco**
+> C:\> **choco --version**
 
 <pre><i>Chocolatey v1.1.0    
 Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br> 
