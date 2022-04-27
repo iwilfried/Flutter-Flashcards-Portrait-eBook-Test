@@ -1,6 +1,6 @@
 # docsify
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+> Flutter-Flashcards-Portrait
 
 - Based on CSS custom properties
 - No packages to install or files to build
