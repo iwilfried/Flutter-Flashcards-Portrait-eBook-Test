@@ -10,9 +10,9 @@
 
 ### Installing Chocolatey
 
-?> On windows, the easiest way to install Flutter is via the package manager Chocolatey.
+?> On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.
 
-<p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.
+<p>With PowerShell, you must ensure Get-ExecutionPolicy is not Restricted.</br>
 Run the following command in Windows Powershell</p>
 
 ```
