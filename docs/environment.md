@@ -71,14 +71,22 @@ Open Android Studio > More Actions> SDK Manager >
 <img width="480" src="./img/sdkmanager.png"/>
 </div>
 
-Check out you have the latest version  
+Check out you have the latest SDK Platform 
 
 <div align=left>
 <img width="480" src="./img/sdkplatform.png"/>
-</div>
+</div>  
+
+check the neccessary tools  
+
+<div align=left>
+<img width="480" src="./img/sdktools.png"/>
+</div>  
+
+### Create Virtual Device
 
 AVD Manager and select Create Virtual Device .
-### Set Up Android Emulator
+
 
 Select a device definition and click Next .
 Select Virtual Devices
