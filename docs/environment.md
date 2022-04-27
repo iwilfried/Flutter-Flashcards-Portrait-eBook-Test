@@ -55,14 +55,13 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.</i></pre></br>
 ### Develop for Android devices  
 Download the Android Studio and install it.   
 
-<p>Open Android Studio > Android Studio Setup Wizard.<br>
-This installs the latest version of<br> 
+This installs the latest version of  
+
+-  Android SDK, 
+-  Android SDK Platform-Tools, 
+-  and Android SDK Build-Tools,   
   
-  -  Android SDK, 
-  -  Android SDK Platform-Tools, 
-  -  and Android SDK Build-Tools,<br> 
-  
-  which are essential while developing a Flutter app for the Android system.</p> 
+  which are essential while developing a Flutter app for the Android system.
 
 ### Set Up Android Emulator
 Enable VM acceleration on your device.
