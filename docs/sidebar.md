@@ -1,5 +1,6 @@
 - [Demo](/)
 - [Markdown](markdown)
+- [Environment](environment)
 - **Links**
 - [Github](https://github.com/jhildenbiddle/docsify-themeable)
 - [NPM](https://www.npmjs.com/package/docsify-themeable)
