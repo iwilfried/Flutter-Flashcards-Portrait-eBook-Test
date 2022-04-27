@@ -63,12 +63,18 @@ This installs the latest version of
   
   which are essential while developing a Flutter app for the Android system.
 
-### Set Up Android Emulator
-Enable VM acceleration on your device.
-Open Android Studio > Tools > Android >   
+### Set Up SDK Manager
+
+Open Android Studio > More Actions> SDK Manager >   
 
 <div align=left>
 <img width="480" src="./img/sdkmanager.png"/>
+</div>
+
+Check out you have the latest version  
+
+<div align=left>
+<img width="480" src="./img/sdkplatform.png"/>
 </div>
 
 AVD Manager and select Create Virtual Device .
