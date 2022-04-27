@@ -19,9 +19,8 @@ Run the following command in Windows Powershell</p>
 C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-Paste the copied text into your shell and press Enter.
-
-If you don't see any errors, you are ready to use Chocolatey!
+<p>Paste the copied text into your shell and press Enter.</br>
+If you don't see any errors, you are ready to use Chocolatey!</p>
 
 > C:\>choco
 
