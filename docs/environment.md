@@ -88,7 +88,11 @@ check the neccessary tools
 Open Android Studio > More Actions> SDK Manager >   
 
 <div align=left>
-<img width="480" src="./img/sdktools.png"/>
+<img width="480" src="./img/VDM.png"/>
+</div>  
+
+<div align=left>
+<img width="480" src="./img/DD.png"/>
 </div>
 
 
