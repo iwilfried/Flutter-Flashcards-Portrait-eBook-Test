@@ -1,4 +1,4 @@
-# docsify-themeable
+# docsify
 
 > A delightfully simple theme system for [docsify.js](https://docsify.js.org)
 
@@ -9,5 +9,5 @@
 - Legacy browser support (IE10+)
 
 [Get Started](#main)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+[GitHub](https://github.com/iwilfried/Flutter-Flashcards-Portrait-eBook-Test)
 [NPM](https://www.npmjs.com/package/docsify-themeable)
