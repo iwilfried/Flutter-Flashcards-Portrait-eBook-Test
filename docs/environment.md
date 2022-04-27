@@ -85,7 +85,12 @@ check the neccessary tools
 
 ### Create Virtual Device
 
-AVD Manager and select Create Virtual Device .
+Open Android Studio > More Actions> SDK Manager >   
+
+<div align=left>
+<img width="480" src="./img/sdktools.png"/>
+</div>
+
 
 
 Select a device definition and click Next .
