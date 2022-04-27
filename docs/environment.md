@@ -1,6 +1,6 @@
-## Set Up 
+## Set-Up 
 
-### Minimum System Requirements
+### Minimum Requirements
 
 - Operating Systems: Windows 7 SP1 or later (64-bit)
 - Disk Space: At least 400 MB.
