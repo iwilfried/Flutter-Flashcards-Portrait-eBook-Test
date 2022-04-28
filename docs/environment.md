@@ -42,17 +42,15 @@ Type 'help' to get help.
 The command instructs PowerShell to let you run scripts for this session.</br> 
 Once you close the PowerShell window, it will default back to the original execution policy.
 
-> **Step 6:** `Run the following command` in Windows Powershell - Installation is included  
-```
+> **Step 6:** `Run the following command` in Windows Powershell - Installation is included</br>  
 C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-```
+
 If you don't see any errors, you are ready to use Chocolatey!
 > **Step 7:** `Verify Chocolatey`</br>    
 C:\> **choco  - -version**</br>   
 <i>Chocolatey v1.1.0</i>    
 
 > C:\> **choco list -l**  
-> 
 PS C:\Users\User> choco list -l  
 Chocolatey v1.1.0  
 chocolatey 1.1.0  
