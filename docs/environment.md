@@ -32,6 +32,7 @@ PowerShell should appear at the top of the menu.
 Right-click on the Powershell icon. A context menu will appear. 
 
 Select *Run as Administrator* and say yes to changes to your PC. 
+
 You'll see the message:  
 *PowerShell 7.2.2  
 Copyright (c) Microsoft Corporation.  
