@@ -22,7 +22,7 @@ Therefore, Flutter is the best choice for every startup.
 ?> On windows, the easiest way to install Flutter is via the package manager <strong>Chocolatey</strong>.   
 
 > **Step 1:** <i>Open the Start Menu</i>    
-Click the <bre>Windows</bre> Key. This opens the Start Menu  
+Click the <i><pre>Windows</pre></i> Key. This opens the Start Menu  
 
 > **Step 2:** Find Powershell  
 Type PowerShell into the Start Menu.  
