@@ -69,15 +69,8 @@ KB2919355 1.0.20160915
 <br><br>
     
 ### Develop for Android Devices  
-Download the Android Studio and install it.   
-
-This installs the latest version of  
-
--  Android SDK, 
--  Android SDK Platform-Tools, 
--  and Android SDK Build-Tools,   
-  
-  which are essential while developing a Flutter app for the Android system.
+Download the Android Studio and install it, 
+which are essential while developing a Flutter app for the Android system.
 
 ### Set Up SDK Manager
 
@@ -117,21 +110,19 @@ Select a device where you want to simulate your app on...
 
 <p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
 
-If you do a final check and get all ticks  
+If you do a final check and get all ticks   
 
-> C:\> **flutter doctor**  
+Doctor summary (to see all details, run flutter doctor -v):  
+[√] Flutter (Channel stable, 2.10.5, on Microsoft Windows [Version 10.0.22000.613], locale de-DE)  
+[√] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)  
+[√] Chrome - develop for the web  
+[√] Visual Studio - develop for Windows (Visual Studio Community 2022 17.1.0)  
+[√] Android Studio (version 2021.1)  
+[√] VS Code (version 1.66.2)  
+[√] Connected device (3 available)  
+[√] HTTP Host Availability  
 
-Doctor summary (to see all details, run flutter doctor -v):
-[√] Flutter (Channel stable, 2.10.5, on Microsoft Windows [Version 10.0.22000.613], locale de-DE)
-[√] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
-[√] Chrome - develop for the web
-[√] Visual Studio - develop for Windows (Visual Studio Community 2022 17.1.0)
-[√] Android Studio (version 2021.1)
-[√] VS Code (version 1.66.2)
-[√] Connected device (3 available)
-[√] HTTP Host Availability
-
-• No issues found!
+• No issues found!  
 
 
 Tadda! Now, you are one step closer to becoming a Flutter developer.  
