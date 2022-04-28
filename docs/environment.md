@@ -42,8 +42,8 @@ Type 'help' to get help.
 The command instructs PowerShell to let you run scripts for this session.</br> 
 Once you close the PowerShell window, it will default back to the original execution policy.
 
-> **Step 6:** `Run the following command` with installation in Windows Powershell</br>  
-C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+> **Step 6:** `Run the following command` with installation in Windows Powershell    
+`C:\>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
 
 If you don't see any errors, you are ready to use Chocolatey!
 > **Step 7:** `Verify Chocolatey`      
@@ -51,7 +51,7 @@ C:\> **choco  - -version**
 <i>Chocolatey v1.1.0</i>      
 
 > C:\> **choco list -l**</br>  
-PS C:\Users\User> choco list -l  
+  
 Chocolatey v1.1.0  
 chocolatey 1.1.0  
 chocolatey-core.extension 1.3.5.1  
@@ -63,7 +63,7 @@ dotnetfx 4.8.0.20190930
 KB2919355 1.0.20160915  
 ...
 
-**With Chocolatey on your machine**, you simply have to run:
+**With Chocolatey on your machine now**, you simply have to run:
 
 > C:\> **choco install flutter**
 
