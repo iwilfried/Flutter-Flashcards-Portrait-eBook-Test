@@ -69,12 +69,6 @@ KB2919355 1.0.20160915
 
 <br>
 
-<div align=center>
-<img src="./img/Flutter.png"/>
-</div>
-</br>
-
-
 > C:\> **flutter doctor**  
 
 <p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
