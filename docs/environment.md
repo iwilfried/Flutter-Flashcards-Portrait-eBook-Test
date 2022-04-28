@@ -28,17 +28,16 @@ Click the *Windows* Key. This opens the Start Menu
 Type *PowerShell* into the Search Field.  
 PowerShell should appear at the top of the menu.  
 
-> Step 3: Open Powershell as an Administrator  
-<p>Right-click on the Powershell icon. A context menu will appear.<br>
-Select Run as Administrator and say yes to changes to your PC. You see
-the message:
-PowerShell 7.2.2
+> **Step 3:** `Open Powershell as an Administrator`  
+Right-click on the Powershell icon. A context menu will appear.  
+Select *Run as Administrator* and say yes to changes to your PC. 
+You'll see the message:
+*PowerShell 7.2.2
 Copyright (c) Microsoft Corporation.
 https://aka.ms/powershell
-Type 'help' to get help.  </p>  
+Type 'help' to get help.* 
 
-> Step 4: 
-<p>Set the execution Policy
+> **Step 4:** `Set the execution Policy`
 The command instructs PowerShell to let you run scripts for this session. 
 Once you close the PowerShell window, it will default back to the original execution policy.</p>
 
