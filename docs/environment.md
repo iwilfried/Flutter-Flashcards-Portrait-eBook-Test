@@ -33,14 +33,13 @@ Right-click on the Powershell icon. A context menu will appear.
 
 > **Step 4:**  
 `Select **Run as Administrator**` and say yes to changes to your PC.</br>
-You'll see the message:  
-
+You'll see the message: 
 <i>PowerShell 7.2.2</i>    
 <i>Copyright (c) Microsoft Corporation</i>  
 https://aka.ms/powershell  
 Type 'help' to get help.   
 
-> **Step 4:** `Set the execution Policy`  
+> **Step 5:** `Set the execution Policy`  
 The command instructs PowerShell to let you run scripts for this session. 
 Once you close the PowerShell window, it will default back to the original execution policy.
 
