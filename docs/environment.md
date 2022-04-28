@@ -65,14 +65,8 @@ KB2919355 1.0.20160915
 
 **With Chocolatey on your machine now**, you simply have to run:
 
-> C:\> **choco install flutter**
-
-<br>
-
-> C:\> **flutter doctor**  
-
-<p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
-
+> C:\> **choco install flutter**  
+<br><br>
     
 ### Develop for Android Devices  
 Download the Android Studio and install it.   
@@ -118,6 +112,10 @@ Select a device where you want to simulate your app on...
 <div align=left>
 <img width="480" src="./img/DD.png"/>
 </div>  
+
+> C:\> **flutter doctor**  
+
+<p>With the execution of this command, it will check your environment and display the Flutter installation status. Find out the below results for any additional applications you are required to install or further tasks to complement.</p>
 
 If you do a final check and get all ticks  
 
