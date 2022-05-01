@@ -129,10 +129,8 @@ Tadda! Now, you are one step closer to becoming a Flutter developer.
 
 Good luck in your development journey!
 
-
-
-<br><br><br>
-## Flutter Install  
+<br><br>
+# Flutter Install  
 First we check which Flutter version is the latest stable one. For this we visit the website  
 [Flutter Releases](https://docs.flutter.dev/development/tools/sdk/releases)  
 
@@ -141,9 +139,7 @@ First we check which Flutter version is the latest stable one. For this we visit
 </div>  
 
 <br>Check your installed version  
-
-> flutter - -version  
-> 
+> flutter - -version   
 Flutter 2.10.5 • channel stable • https://github.com/flutter/flutter.git  
 Framework • revision 5464c5bac7 (13 days ago) • 2022-04-18   
 Engine • revision 57d3bac3dd  
