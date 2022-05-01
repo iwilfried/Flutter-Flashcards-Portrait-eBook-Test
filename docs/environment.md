@@ -128,3 +128,8 @@ Doctor summary (to see all details, run flutter doctor -v):
 Tadda! Now, you are one step closer to becoming a Flutter developer.  
 
 Good luck in your development journey!
+
+
+<div align=left>
+<img width="480" src="./img/sdktools.png"/>
+</div>  
