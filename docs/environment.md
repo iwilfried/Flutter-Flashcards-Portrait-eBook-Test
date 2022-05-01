@@ -134,9 +134,9 @@ Good luck in your development journey!
 <br><br><br>
 ### Flutter  
 First we check which Flutter version is the latest stable one. For this we visit the website  
-[](https://docs.flutter.dev/development/tools/sdk/releases)  
+[Flutter Releases](https://docs.flutter.dev/development/tools/sdk/releases)  
 
-
+<br>
 
 <div align=left>
 <img width="480" src="./img/channel.png"/>
