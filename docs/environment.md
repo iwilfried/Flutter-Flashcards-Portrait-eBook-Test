@@ -132,7 +132,7 @@ Good luck in your development journey!
 
 
 <br><br><br>
-### Flutter  
+## Flutter Install  
 First we check which Flutter version is the latest stable one. For this we visit the website  
 [Flutter Releases](https://docs.flutter.dev/development/tools/sdk/releases)  
 
