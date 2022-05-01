@@ -130,6 +130,14 @@ Tadda! Now, you are one step closer to becoming a Flutter developer.
 Good luck in your development journey!
 
 
+
+<br><br><br>
+### Flutter  
+First we check which Flutter version is the latest stable one. For this we visit the website  
+[](https://docs.flutter.dev/development/tools/sdk/releases)  
+
+
+
 <div align=left>
-<img width="480" src="./img/sdktools.png"/>
+<img width="480" src="./img/channel.png"/>
 </div>  
