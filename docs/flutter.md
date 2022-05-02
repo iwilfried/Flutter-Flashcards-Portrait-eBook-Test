@@ -2,6 +2,8 @@
 
 ?> What’s Flutter?  
 
+Google's New Mobile UI Framework for iOS & Android  
+
 <p>Developed by Google, Flutter is a mobile app SDK, which allows developers to develop high-quality native interfaces for iOS, Android, Web, macOS, and Linux devices using a single codebase. It allows developers to write a code once and use it on different software devices.</p> 
 
 Flutter is a free and open-source framework. The amazing features of Flutter enhance the mobile app development experiences.
