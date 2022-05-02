@@ -69,12 +69,15 @@ KB2919355 1.0.20160915
 
 > C:\> **choco install flutter**  
 `Develop for Android Devices`  
+
 Download the Android Studio and install it, 
 which are essential while developing a Flutter app for the Android system.  
+
 <br>
 <br>
-### Set Up SDK Manager
-<br>
+### Set Up SDK Manager  
+<hr>  
+
 Open Android Studio > More Actions> SDK Manager >   
 
 <div align=left>
