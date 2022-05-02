@@ -75,8 +75,9 @@ which are essential while developing a Flutter app for the Android system.
 
 <br>
 <br>
-### Set Up SDK Manager  
 <hr>  
+
+### Set Up SDK Manager  
 
 Open Android Studio > More Actions> SDK Manager >   
 
