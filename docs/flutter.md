@@ -68,11 +68,11 @@ KB2919355 1.0.20160915
 **With Chocolatey on your machine now**, you simply have to run:
 
 > C:\> **choco install flutter**  
-<br><br>
-    
 `Develop for Android Devices`  
 Download the Android Studio and install it, 
-which are essential while developing a Flutter app for the Android system.
+which are essential while developing a Flutter app for the Android system.  
+
+<hr>
 
 ### Set Up SDK Manager
 
