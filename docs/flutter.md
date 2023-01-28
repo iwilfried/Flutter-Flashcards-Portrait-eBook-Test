@@ -140,7 +140,7 @@ First we check which Flutter version is the latest stable one. For this we visit
 [Flutter Releases](https://docs.flutter.dev/development/tools/sdk/releases)  
 
 <div align=left>
-<img width="480" src="./img/channel.png"/>
+<img width="480" src="./img/releases.jpg"/>
 </div>  
 
 <br>Check your installed version  
